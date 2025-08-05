@@ -1,0 +1,2 @@
+# batch_script_generator
+可以把多个脚本整合成一个python程序
